@@ -1,7 +1,7 @@
 {
   "name": "openia",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repo construído para o video tutorial no Youtube\r https://www.youtube.com/watch?v=z_Ab9d24Oas",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -14,6 +14,15 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "fs": "^0.0.1-security",
-    "openai": "^3.1.0"
-  }
+    "openai": "^3.1.0",
+    "yarn": "^1.22.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrepg1184/openia_firststeps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrepg1184/openia_firststeps/issues"
+  },
+  "homepage": "https://github.com/andrepg1184/openia_firststeps#readme"
 }
